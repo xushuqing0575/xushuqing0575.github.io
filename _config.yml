@@ -6,14 +6,12 @@ baseurl: ""
 url:                "https://startbootstrap.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
-
+github_username:    xushuqing0575
+Wechat_id: xushuqing705 
+linkedin_username:  SHUQING XU
+whatsapp_number: +8618753179516
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   G-EPQJL9B1T7 # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
